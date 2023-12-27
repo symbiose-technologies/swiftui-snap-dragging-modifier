@@ -13,7 +13,7 @@ let package = Package(
     )
   ],
   dependencies: [
-    .package(url: "https://github.com/FluidGroup/swiftui-support", from: "0.4.0")
+    .package(url: "https://github.com/symbiose-technologies/swiftui-support", branch: "sym-dev")
   ],
   targets: [
     .target(
